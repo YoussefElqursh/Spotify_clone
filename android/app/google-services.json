@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "610258769601",
+    "project_id": "soptify-dd0b7",
+    "storage_bucket": "soptify-dd0b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610258769601:android:061339ab4bea0b6b08e640",
+        "android_client_info": {
+          "package_name": "com.KMY.spotify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZwr-Bx3HjeeOVBWFRzXiEUwKNq4Gp_YQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
